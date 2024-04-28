@@ -14,7 +14,7 @@ Regarding the pre-trained U-Net network, there are several variants of the U-Net
 
 
 
-
+![image](https://github.com/Armin-Abdollahi/U-Net/assets/103449830/9b9a1c88-ddc8-41d9-ba6b-4f3bc943f007)
 
 
 
